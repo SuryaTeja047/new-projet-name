@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+body{
+	background-color:lightgreen;
+	align-items:center;
+	justify-content:center;
+	text-align:center;
+}
+input{
+	border-radius:5px;
+	margin:10px;
+	background-color:lightred;
+	box-shadow:1px 1px 10px grey;
+	font-weight:100;
+	font-family:bold;
+}
